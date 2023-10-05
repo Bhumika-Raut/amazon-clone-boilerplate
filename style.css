@@ -1,0 +1,40 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+background-image: url('background picture.png');
+
+}
+
+.first{
+
+    background-color: rgb(55, 50, 96);
+}
+.first ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.first ul li{
+    float: left
+}
+
+.first ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.first ul li a:hover{
+    background-color: aliceblue;
+    color: blanchedalmond;
+}
+
+.row{
+    margin-top: 250px ;
+    margin-left: 50px;
+}
